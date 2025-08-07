@@ -161,8 +161,7 @@ Sales-and-Inventory-Management-System/
 
 ## 👤 Author
 
-**Shawn Azad**
-[GitHub Profile](https://github.com/shawnazd)
+[**Shawn**](https://github.com/shawnazd)
 
 I welcome feedback, contributions, and collaboration! Feel free to open issues or pull requests.
 
