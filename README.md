@@ -154,7 +154,7 @@ Sales-and-Inventory-Management-System/
 ├── manage.py              # Django management script
 ├── requirements.txt       # Python dependencies list
 └── run_project.bat        # Windows batch script to run the project
-           # This documentation file
+          
 ```
 
 ---
