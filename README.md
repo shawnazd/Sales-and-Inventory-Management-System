@@ -183,5 +183,4 @@ If this project helps you, please consider starring it on GitHub to show your su
 Thank you for checking out the **Sales and Inventory Management System**!
 Happy coding and best wishes for your business growth! 👨‍💻✨
 
-```
 
